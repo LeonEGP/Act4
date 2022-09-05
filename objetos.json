@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Assassins Creed Rogue",
+        "price":100
+    },
+    {
+        "name":"Cyber Punk 2077",
+        "price":50
+    },
+    {
+        "name":"Red Dead Redemption 2",
+        "price":300
+    },
+    {
+        "name":"Mirros Edge",
+        "price":150
+    },
+    {
+        "name":"Assassins Creed Mirage",
+        "price":400
+    }
+]

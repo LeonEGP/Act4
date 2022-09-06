@@ -40,5 +40,12 @@
         "developer": "CD Projekt RED",
         "engine": "REDengine 3",
         "grade": 10
+    },
+    {
+        "name": "BioShock",
+        "price": 350,
+        "developer": "2K",
+        "engine": "Unreal Engine 2.5",
+        "grade": 9
     }
 ]

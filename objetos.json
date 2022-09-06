@@ -1,27 +1,44 @@
 [
     {
-        "name":"Assassins Creed Rogue",
-        "price":100,
+        "name": "Assassins Creed Rogue",
+        "price": 400,
+        "developer": "Ubisoft",
+        "engine": "AnvilNext",
         "grade": 8
     },
     {
-        "name":"Cyber Punk 2077",
-        "price":50,
-        "grade": 3
-    },
-    {
-        "name":"Red Dead Redemption 2",
-        "price":300,
-        "grade": 10
-    },
-    {
-        "name":"Mirrors Edge",
-        "price":150,
+        "name": "Cyber Punk 2077",
+        "price": 350,
+        "developer": "CD Projekt RED",
+        "engine": "REDengine 4",
         "grade": 7
     },
     {
-        "name":"Assassins Creed Mirage",
-        "price":400,
-        "grade": 5
+        "name": "Red Dead Redemption 2",
+        "price": 600,
+        "developer": "Rockstar Games",
+        "engine": "RAGE Euphoria",
+        "grade": 10
+    },
+    {
+        "name": "Mirrors Edge",
+        "price": 300,
+        "developer": "DICE",
+        "engine": "Unreal Engine 3",
+        "grade": 9
+    },
+    {
+        "name": "The Last of Us Part I",
+        "price": 800,
+        "developer": "Naughty Dog",
+        "engine": "Havok",
+        "grade": 10
+    },
+    {
+        "name": "The Witcher 3",
+        "price": 450,
+        "developer": "CD Projekt RED",
+        "engine": "REDengine 3",
+        "grade": 10
     }
 ]
